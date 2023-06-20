@@ -1,0 +1,4 @@
+- # [[Dr. Joel Chan]]
+	-
+- # [[Knowledge synthesis: A conceptual model and practical guide]]
+	-

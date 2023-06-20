@@ -1,0 +1,11 @@
+- Challenges:
+	- Learners often struggle with the higher cognitive load of [[higher-order thinking]].
+		- Unfortunately, learners can interpret the effort and difficulty associated with effective learning as a sign that the methods are ineffective and choose not to use them.
+		- This is known as the **misinterpreted-effort hypothesis**. In short, learners sabotage themselves…
+- Becoming an expert is not easy.
+	- It requires a deep understanding of a subject.
+	- The ability to apply that knowledge in complex situations.
+	- Organize knowledge into structures that allow for efficient thinking and reasoning.
+	- SOLO and Bloom’s revised taxonomy provide frameworks for identifying [[higher-order knowledge structures]] and thinking processes.
+		- However, learners may struggle with the cognitive load of higher-order thinking, choosing to use less effective strategies.
+			- To overcome this, learners must be taught to improve their metacognition and self-regulated learning strategies.
